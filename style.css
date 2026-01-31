@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background-color: #cafbff;
+}
+
+.contenedor {
+    background: rgb(129, 176, 215);
+    width: 350px;
+    padding: 25px;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 10px;
+}
